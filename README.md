@@ -33,6 +33,10 @@ The **Optimized Neural Network** achieved the best performance, utilizing RMSpro
 - **Early Stopping:** Prevented overtraining and improved model efficiency.
 - **Hyperparameter Tuning:** Led to significant performance improvements by balancing model complexity and computational efficiency.
 
+## Video Presentation ##
+
+[video presentation](https://www.loom.com/share/ab86390c340e4ac9ab2e1e8799d9eb17?sid=5d902895-1cec-4b19-b2d1-e77d72e7dca2)
+
 ## Future Work
 - Experiment with deeper architectures and convolutional networks.
 - Apply dropout regularization for further performance enhancements.
